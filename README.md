@@ -3,7 +3,7 @@ Open index.html in your web browser.
 Play the game!
 
 Controls
-W: Move player forward.
+W: Move player forward. \n
 A: Move player left.
 S: Move player backward.
 D: Move player right.
